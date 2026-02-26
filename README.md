@@ -10,7 +10,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octpus-01&theme=tokyonight" width="800" />
+  <!-- 左侧：GitHub 数据统计 -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=octpus-01&theme=tokyonight" width="49%" />
+  <!-- 右侧：WakaTime 编程时长统计 -->
+    <img src="https://gh-readme-stats.vercel.app/api/wakatime?username=octopus_pierre&theme=tokyonight&hide_border=true" width="49%" />  
 </div>
 
 <br/>
